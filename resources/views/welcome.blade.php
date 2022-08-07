@@ -129,5 +129,7 @@
             </div>
         </div> -->
         <b style="font-size: 20px; text-align:center">Thuy Pro</b>
+        <hr>
+        <label>  {{ env('APP_NAME')}} </label>
     </body>
 </html>
